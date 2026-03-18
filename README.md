@@ -1,8 +1,6 @@
 <img width="1675" height="919" alt="image" src="https://github.com/user-attachments/assets/2dcee6f5-e28f-4252-93df-b277293b0f06" />
 # Small-Tech-Store
 
-[Brief description - what your app does]
-
 ## 📋 Features
 - [Feature 1 - e.g., Browse laptops by brand]
 - [Feature 2 - e.g., View specifications]

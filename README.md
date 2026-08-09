@@ -9,7 +9,7 @@
 
 ## 🛠️ Tech Stack
 - **Language:** C#
-- **Framework:** .NET Framework / .NET Core [choose yours]
+- **Framework:** .NET Framework
 - **UI:** Windows Forms
 - **IDE:** Visual Studio Community 2022
 
